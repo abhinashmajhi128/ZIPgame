@@ -1,0 +1,2 @@
+# ZIPgame
+for official purpose
